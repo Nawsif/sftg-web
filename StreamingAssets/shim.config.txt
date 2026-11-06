@@ -1,0 +1,6 @@
+server_url=http://127.0.0.1:3000
+engine_path=Unity/SteamworksNET
+request_timeout_ms=8000
+identity_mode=guest
+persistent_id=false
+app_id=674940
